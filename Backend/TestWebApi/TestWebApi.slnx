@@ -1,6 +1,0 @@
-<Solution>
-  <Project Path="TestWebApi.Api/TestWebApi.Api.csproj" Id="938613fe-5971-450a-b9fb-76bfa4fb2966" />
-  <Project Path="TestWebApi.Application/TestWebApi.Application.csproj" Id="49a24345-af06-49c8-83b2-1ffeb96ff12e" />
-  <Project Path="TestWebApi.Data/TestWebApi.Data.csproj" Id="80bb6e6c-e58e-4c28-a0a4-aa7bcfe1e9e7" />
-  <Project Path="TestWebApi.Infrastructure/TestWebApi.Infrastructure.csproj" Id="49ae7fec-9758-46f5-8f83-9b1832076183" />
-</Solution>
