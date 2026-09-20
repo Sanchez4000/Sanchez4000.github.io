@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="PingService.Api/PingService.Api.csproj" />
+  <Project Path="PingService.Application/PingService.Application.csproj" />
+  <Project Path="PingService.Domain/PingService.Domain.csproj" />
+  <Project Path="PingService.Infrastructure/PingService.Infrastructure.csproj" />
+</Solution>
